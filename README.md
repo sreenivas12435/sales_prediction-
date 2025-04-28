@@ -82,14 +82,6 @@ Random Forest	~0.95	~1648	~2391
 XGBoost	~0.92	~2143	~2857
 Linear Regression performed the best on this dataset, suggesting strong linear relationships.
 
-🏃‍♂️ How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/Car-Sales-Forecasting-ML.git
-cd Car-Sales-Forecasting-ML
 Install dependencies:
 
 bash
